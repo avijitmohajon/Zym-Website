@@ -3,6 +3,8 @@ import PriceOption from "../PriceOption/PriceOption";
 
 const PriceOptions = () => {
 
+
+    
     const PriceOptions = [
         { id: 1, name: "Basic", price: 20, duration: "1 month", access: ["Gym"], personalTrainer: false },
         { id: 2, name: "Standard", price: 50, duration: "3 months", access: ["Gym", "Pool", "Classes"], personalTrainer: false },

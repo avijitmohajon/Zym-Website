@@ -14,8 +14,7 @@ function App() {
 
       <NavBar></NavBar>
       <PriceOptions/>
-      {/* <hr /> */}
-      {/* <DaisyNav></DaisyNav> */}
+
     </>
   )
 }
