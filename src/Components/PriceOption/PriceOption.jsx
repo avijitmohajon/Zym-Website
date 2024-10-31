@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import AccessItem from '../AccessItem/AccessItem';
 
 const PriceOption = ({ option }) => {
-    console.log(option);
+    // console.log(option);
     const { name, duration, price, access } = option;
     // console.log(access);
 
